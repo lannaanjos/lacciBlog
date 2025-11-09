@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "87qWS/67AFpTnnGWgjw4r3xpD4KbJygWc+XvPQ9tdW0=",
+  "Source": "LacciAPI",
+  "BasePath": "_content/LacciAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v2UuhahO694=",
+  "success": true,
+  "projectFilePath": "/home/lacci/Desktop/Lacci_Coding/4th_Cycle/Desenvolvimento_de_Software_Visual/LacciAPI/LacciAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/lacci/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
