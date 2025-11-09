@@ -3,3 +3,12 @@ GET http://localhost:5188/usuarios
 ###
 
 POST http://localhost:5188/usuarios?nome=Lanna
+
+
+
+
+// 200 -> deu certo
+// 201 -> recurso criado
+// 400 -> bad request / erro do cliente que mandou parametros errados
+// 404 -> not found
+// 500 -> internal server error

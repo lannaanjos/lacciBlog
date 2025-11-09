@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LacciAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+740a70c68c6bec053a7a1d92ca2ec565f9da4071")]
 [assembly: System.Reflection.AssemblyProductAttribute("LacciAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LacciAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
